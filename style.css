@@ -1,0 +1,25 @@
+#progress {
+    background-color: #FFB200;
+    height: 8px;
+    width: 0;
+    position: fixed;
+    top: 0;
+    top: 0;
+    z-index: 1;
+}
+p {
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+    color: #EBC7E8;
+    text-align: justify;
+}
+.container {
+    width: 50%;
+    margin: 20px auto;
+    font-family: 'arial';
+    /* border: 2px solid white; */
+}
+body {
+    background-color: #645CAA;
+}
